@@ -13,31 +13,31 @@
 #+NAME: tbl:assignments
 | First name    | Last name   | Case |
 |---------------+-------------+------|
-| ALEYNA        | ACAY        | [[../images/1.png][1]]    |
-| İREM          | GÜRSOY      | [[../images/2.png][2]]    |
-| KAAN          | KARA        | [[../images/3.png][3]]    |
-| ORÇUN         | KARABAŞ     | [[../images/4.png][4]]    |
-| CAN           | MCKAYRA     | [[../images/5.png][5]]    |
-| YİĞİT         | OSMA        | [[../images/6.png][6]]    |
-| GÜLŞEN DOĞA   | KARAGÖL     | [[../images/7.png][7]]    |
-| MELTEM        | ŞALVARLI    | [[../images/8.png][8]]    |
-| ŞEYMA         | SEZEN       | [[../images/9.png][9]]    |
-| MERİÇ         | SADIÇ       | [[../images/10.png][10]]   |
-| EFE           | GÜLLERCİ    | [[../images/11.png][11]]   |
-| ŞİRİN GİZEM   | ACER        | [[../images/12.png][12]]   |
-| FATMA SILA    | AYYILDIZ    | [[../images/13.png][13]]   |
-| CANSU         | BÜYÜKÖZTÜRK | [[../images/14.png][14]]   |
-| ANDRE         | DEĞİRMENCİ  | [[../images/15.png][15]]   |
-| BEYZA SUDE    | GÖZÜTOK     | [[../images/16.png][16]]   |
-| AYÇA NİL      | GÜLLÜ       | [[../images/17.png][17]]   |
-| NEHİR         | KARABUL     | [[../images/18.png][18]]   |
-| AHMET BARKIN  | KILIÇOĞLU   | [[../images/19.png][19]]   |
-| KUBİLAY BERK  | ÖZDEMİR     | [[../images/20.png][20]]   |
-| YİĞİT ALPEREN | SENDİNÇ     | [[../images/21.png][21]]   |
-| TUĞÇE         | SEZGİN      | [[../images/22.png][22]]   |
-| ZEHRA BETÜL   | ÜSTÜNDAĞ    | [[../images/23.png][23]]   |
-| DİLARA        | UZUNBOY     | [[../images/24.png][24]]   |
-| ELİF ÇİĞDEM   | YALÇINKAYA  | [[../images/25.png][25]]   |
+| ALEYNA        | ACAY        | [[./images/1.png][1]]    |
+| İREM          | GÜRSOY      | [[./images/2.png][2]]    |
+| KAAN          | KARA        | [[./images/3.png][3]]    |
+| ORÇUN         | KARABAŞ     | [[./images/4.png][4]]    |
+| CAN           | MCKAYRA     | [[./images/5.png][5]]    |
+| YİĞİT         | OSMA        | [[./images/6.png][6]]    |
+| GÜLŞEN DOĞA   | KARAGÖL     | [[./images/7.png][7]]    |
+| MELTEM        | ŞALVARLI    | [[./images/8.png][8]]    |
+| ŞEYMA         | SEZEN       | [[./images/9.png][9]]    |
+| MERİÇ         | SADIÇ       | [[./images/10.png][10]]   |
+| EFE           | GÜLLERCİ    | [[./images/11.png][11]]   |
+| ŞİRİN GİZEM   | ACER        | [[./images/12.png][12]]   |
+| FATMA SILA    | AYYILDIZ    | [[./images/13.png][13]]   |
+| CANSU         | BÜYÜKÖZTÜRK | [[./images/14.png][14]]   |
+| ANDRE         | DEĞİRMENCİ  | [[./images/15.png][15]]   |
+| BEYZA SUDE    | GÖZÜTOK     | [[./images/16.png][16]]   |
+| AYÇA NİL      | GÜLLÜ       | [[./images/17.png][17]]   |
+| NEHİR         | KARABUL     | [[./images/18.png][18]]   |
+| AHMET BARKIN  | KILIÇOĞLU   | [[./images/19.png][19]]   |
+| KUBİLAY BERK  | ÖZDEMİR     | [[./images/20.png][20]]   |
+| YİĞİT ALPEREN | SENDİNÇ     | [[./images/21.png][21]]   |
+| TUĞÇE         | SEZGİN      | [[./images/22.png][22]]   |
+| ZEHRA BETÜL   | ÜSTÜNDAĞ    | [[./images/23.png][23]]   |
+| DİLARA        | UZUNBOY     | [[./images/24.png][24]]   |
+| ELİF ÇİĞDEM   | YALÇINKAYA  | [[./images/25.png][25]]   |
 
 * Identify the mapping function
 - *Study* several mapping functions are provided in the [[https://yeditepe-bme252.github.io/2026-Spring/Ch5-strain.html#mappings][course notes]]. Your responsibility is to identify which mapping function may be used to replicate the deformation image assigned to you ("your image").
